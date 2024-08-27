@@ -49,7 +49,7 @@ Este projeto é uma aplicação de gerenciamento de aluguel de motos e entregado
     dotnet ef database update -p .\MotorcycleRentalSystem.Persistence\ -s .\MotorcycleRentalSystem.Api\
     ```
 
-5. Compile e execute o projeto:
+5. Compile e execute o projeto ou acessar a pagina pelo [http://localhost:8080/](http://localhost:8080/swagger/index.html):
     ```bash
     dotnet run
     ```
