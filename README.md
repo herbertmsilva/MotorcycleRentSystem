@@ -46,7 +46,7 @@ Este projeto é uma aplicação de gerenciamento de aluguel de motos e entregado
 
 4. Após os serviços estarem ativos, rode as migrações para configurar o banco de dados:
     ```bash
-    dotnet ef database update
+    dotnet ef database update -p .\MotorcycleRentalSystem.Persistence\ -s .\MotorcycleRentalSystem.Api\
     ```
 
 5. Compile e execute o projeto:
