@@ -7,7 +7,7 @@ Este projeto é uma aplicação de gerenciamento de aluguel de motos e entregado
 - **Linguagem**: C# com .NET
 - **Banco de Dados**: PostgreSQL para armazenamento relacional e MongoDB para gravação de eventos, logs, auditorias e configurações específicas.
 - **Mensageria**: RabbitMQ para comunicação assíncrona.
-- **Padrões de Projeto**: CQRS (Command Query Responsibility Segregation), SOLID.
+- **Padrões de Projeto**: Clean Architecture, CQRS (Command Query Responsibility Segregation), SOLID.
 
 ## Estrutura do Projeto
 
