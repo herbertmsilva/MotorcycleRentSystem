@@ -1,0 +1,316 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\herbe\\source\\repos\\MotoRentalSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B19559F7-5BB5-4286-B5AA-2FBD1EC82BD6}|src\\MotorcycleRentalSystem.Api\\MotorcycleRentalSystem.Api.csproj|c:\\users\\herbe\\source\\repos\\motorentalsystem\\src\\motorcyclerentalsystem.api\\configuration\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B19559F7-5BB5-4286-B5AA-2FBD1EC82BD6}|src\\MotorcycleRentalSystem.Api\\MotorcycleRentalSystem.Api.csproj|solutionrelative:src\\motorcyclerentalsystem.api\\configuration\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B19559F7-5BB5-4286-B5AA-2FBD1EC82BD6}|src\\MotorcycleRentalSystem.Api\\MotorcycleRentalSystem.Api.csproj|c:\\users\\herbe\\source\\repos\\motorentalsystem\\src\\motorcyclerentalsystem.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B19559F7-5BB5-4286-B5AA-2FBD1EC82BD6}|src\\MotorcycleRentalSystem.Api\\MotorcycleRentalSystem.Api.csproj|solutionrelative:src\\motorcyclerentalsystem.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B19559F7-5BB5-4286-B5AA-2FBD1EC82BD6}|src\\MotorcycleRentalSystem.Api\\MotorcycleRentalSystem.Api.csproj|c:\\users\\herbe\\source\\repos\\motorentalsystem\\src\\motorcyclerentalsystem.api\\examples\\authresponseexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B19559F7-5BB5-4286-B5AA-2FBD1EC82BD6}|src\\MotorcycleRentalSystem.Api\\MotorcycleRentalSystem.Api.csproj|solutionrelative:src\\motorcyclerentalsystem.api\\examples\\authresponseexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B19559F7-5BB5-4286-B5AA-2FBD1EC82BD6}|src\\MotorcycleRentalSystem.Api\\MotorcycleRentalSystem.Api.csproj|c:\\users\\herbe\\source\\repos\\motorentalsystem\\src\\motorcyclerentalsystem.api\\examples\\unauthorizederrorexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B19559F7-5BB5-4286-B5AA-2FBD1EC82BD6}|src\\MotorcycleRentalSystem.Api\\MotorcycleRentalSystem.Api.csproj|solutionrelative:src\\motorcyclerentalsystem.api\\examples\\unauthorizederrorexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B19559F7-5BB5-4286-B5AA-2FBD1EC82BD6}|src\\MotorcycleRentalSystem.Api\\MotorcycleRentalSystem.Api.csproj|c:\\users\\herbe\\source\\repos\\motorentalsystem\\src\\motorcyclerentalsystem.api\\examples\\notfounderrorexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B19559F7-5BB5-4286-B5AA-2FBD1EC82BD6}|src\\MotorcycleRentalSystem.Api\\MotorcycleRentalSystem.Api.csproj|solutionrelative:src\\motorcyclerentalsystem.api\\examples\\notfounderrorexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0D6D93-0D30-4A3D-B72A-7EABE0113A0B}|src\\MotorcycleRentalSystem.UnitTests\\MotorcycleRentalSystem.UnitTests.csproj|c:\\users\\herbe\\source\\repos\\motorentalsystem\\src\\motorcyclerentalsystem.unittests\\application\\usecases\\deliverydriver\\commands\\createdeliverydriver\\createdeliverydrivercommandvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0D6D93-0D30-4A3D-B72A-7EABE0113A0B}|src\\MotorcycleRentalSystem.UnitTests\\MotorcycleRentalSystem.UnitTests.csproj|solutionrelative:src\\motorcyclerentalsystem.unittests\\application\\usecases\\deliverydriver\\commands\\createdeliverydriver\\createdeliverydrivercommandvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0D6D93-0D30-4A3D-B72A-7EABE0113A0B}|src\\MotorcycleRentalSystem.UnitTests\\MotorcycleRentalSystem.UnitTests.csproj|c:\\users\\herbe\\source\\repos\\motorentalsystem\\src\\motorcyclerentalsystem.unittests\\application\\usecases\\deliverydriver\\commands\\updatecnhimage\\updatecnhimagecommandvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0D6D93-0D30-4A3D-B72A-7EABE0113A0B}|src\\MotorcycleRentalSystem.UnitTests\\MotorcycleRentalSystem.UnitTests.csproj|solutionrelative:src\\motorcyclerentalsystem.unittests\\application\\usecases\\deliverydriver\\commands\\updatecnhimage\\updatecnhimagecommandvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0D6D93-0D30-4A3D-B72A-7EABE0113A0B}|src\\MotorcycleRentalSystem.UnitTests\\MotorcycleRentalSystem.UnitTests.csproj|c:\\users\\herbe\\source\\repos\\motorentalsystem\\src\\motorcyclerentalsystem.unittests\\application\\usecases\\motorcycle\\commands\\updatemotorcyclelicenseplate\\updatemotorcyclelicenseplatecommandvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0D6D93-0D30-4A3D-B72A-7EABE0113A0B}|src\\MotorcycleRentalSystem.UnitTests\\MotorcycleRentalSystem.UnitTests.csproj|solutionrelative:src\\motorcyclerentalsystem.unittests\\application\\usecases\\motorcycle\\commands\\updatemotorcyclelicenseplate\\updatemotorcyclelicenseplatecommandvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5001C8CC-75EE-4508-A11E-CB56D77A824B}|src\\MotorcycleRentalSystem.IntegrationTests\\MotorcycleRentalSystem.IntegrationTests.csproj|c:\\users\\herbe\\source\\repos\\motorentalsystem\\src\\motorcyclerentalsystem.integrationtests\\motorcyclecontrollerintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5001C8CC-75EE-4508-A11E-CB56D77A824B}|src\\MotorcycleRentalSystem.IntegrationTests\\MotorcycleRentalSystem.IntegrationTests.csproj|solutionrelative:src\\motorcyclerentalsystem.integrationtests\\motorcyclecontrollerintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E37ED-F817-414A-B716-87035DF44715}|src\\MotorcycleRentalSystem.Application\\MotorcycleRentalSystem.Application.csproj|c:\\users\\herbe\\source\\repos\\motorentalsystem\\src\\motorcyclerentalsystem.application\\usecases\\motorcycle\\commands\\createmotorcycle\\createmotorcyclecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E35E37ED-F817-414A-B716-87035DF44715}|src\\MotorcycleRentalSystem.Application\\MotorcycleRentalSystem.Application.csproj|solutionrelative:src\\motorcyclerentalsystem.application\\usecases\\motorcycle\\commands\\createmotorcycle\\createmotorcyclecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 28,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SwaggerConfig.cs",
+              "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\MotoRentalSystem\\src\\MotorcycleRentalSystem.Api\\Configuration\\SwaggerConfig.cs",
+              "RelativeDocumentMoniker": "src\\MotorcycleRentalSystem.Api\\Configuration\\SwaggerConfig.cs",
+              "ToolTip": "C:\\Users\\herbe\\source\\repos\\MotoRentalSystem\\src\\MotorcycleRentalSystem.Api\\Configuration\\SwaggerConfig.cs",
+              "RelativeToolTip": "src\\MotorcycleRentalSystem.Api\\Configuration\\SwaggerConfig.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAwEcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T16:47:48.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthResponseExample.cs",
+              "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\MotoRentalSystem\\src\\MotorcycleRentalSystem.Api\\Examples\\AuthResponseExample.cs",
+              "RelativeDocumentMoniker": "src\\MotorcycleRentalSystem.Api\\Examples\\AuthResponseExample.cs",
+              "ToolTip": "C:\\Users\\herbe\\source\\repos\\MotoRentalSystem\\src\\MotorcycleRentalSystem.Api\\Examples\\AuthResponseExample.cs",
+              "RelativeToolTip": "src\\MotorcycleRentalSystem.Api\\Examples\\AuthResponseExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T16:44:54.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotFoundErrorExample.cs",
+              "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\MotoRentalSystem\\src\\MotorcycleRentalSystem.Api\\Examples\\NotFoundErrorExample.cs",
+              "RelativeDocumentMoniker": "src\\MotorcycleRentalSystem.Api\\Examples\\NotFoundErrorExample.cs",
+              "ToolTip": "C:\\Users\\herbe\\source\\repos\\MotoRentalSystem\\src\\MotorcycleRentalSystem.Api\\Examples\\NotFoundErrorExample.cs",
+              "RelativeToolTip": "src\\MotorcycleRentalSystem.Api\\Examples\\NotFoundErrorExample.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T16:43:46.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnauthorizedErrorExample.cs",
+              "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\MotoRentalSystem\\src\\MotorcycleRentalSystem.Api\\Examples\\UnauthorizedErrorExample.cs",
+              "RelativeDocumentMoniker": "src\\MotorcycleRentalSystem.Api\\Examples\\UnauthorizedErrorExample.cs",
+              "ToolTip": "C:\\Users\\herbe\\source\\repos\\MotoRentalSystem\\src\\MotorcycleRentalSystem.Api\\Examples\\UnauthorizedErrorExample.cs",
+              "RelativeToolTip": "src\\MotorcycleRentalSystem.Api\\Examples\\UnauthorizedErrorExample.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T16:43:42.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\MotoRentalSystem\\src\\MotorcycleRentalSystem.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\MotorcycleRentalSystem.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\herbe\\source\\repos\\MotoRentalSystem\\src\\MotorcycleRentalSystem.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\MotorcycleRentalSystem.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAzwCYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T16:42:26.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateDeliveryDriverCommandValidatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\MotoRentalSystem\\src\\MotorcycleRentalSystem.UnitTests\\Application\\UseCases\\DeliveryDriver\\Commands\\CreateDeliveryDriver\\CreateDeliveryDriverCommandValidatorTests.cs",
+              "RelativeDocumentMoniker": "src\\MotorcycleRentalSystem.UnitTests\\Application\\UseCases\\DeliveryDriver\\Commands\\CreateDeliveryDriver\\CreateDeliveryDriverCommandValidatorTests.cs",
+              "ToolTip": "C:\\Users\\herbe\\source\\repos\\MotoRentalSystem\\src\\MotorcycleRentalSystem.UnitTests\\Application\\UseCases\\DeliveryDriver\\Commands\\CreateDeliveryDriver\\CreateDeliveryDriverCommandValidatorTests.cs",
+              "RelativeToolTip": "src\\MotorcycleRentalSystem.UnitTests\\Application\\UseCases\\DeliveryDriver\\Commands\\CreateDeliveryDriver\\CreateDeliveryDriverCommandValidatorTests.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAiwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T16:41:17.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateCnhImageCommandValidatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\MotoRentalSystem\\src\\MotorcycleRentalSystem.UnitTests\\Application\\UseCases\\DeliveryDriver\\Commands\\UpdateCnhImage\\UpdateCnhImageCommandValidatorTests.cs",
+              "RelativeDocumentMoniker": "src\\MotorcycleRentalSystem.UnitTests\\Application\\UseCases\\DeliveryDriver\\Commands\\UpdateCnhImage\\UpdateCnhImageCommandValidatorTests.cs",
+              "ToolTip": "C:\\Users\\herbe\\source\\repos\\MotoRentalSystem\\src\\MotorcycleRentalSystem.UnitTests\\Application\\UseCases\\DeliveryDriver\\Commands\\UpdateCnhImage\\UpdateCnhImageCommandValidatorTests.cs",
+              "RelativeToolTip": "src\\MotorcycleRentalSystem.UnitTests\\Application\\UseCases\\DeliveryDriver\\Commands\\UpdateCnhImage\\UpdateCnhImageCommandValidatorTests.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAiwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T16:40:37.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateMotorcycleLicensePlateCommandValidatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\MotoRentalSystem\\src\\MotorcycleRentalSystem.UnitTests\\Application\\UseCases\\Motorcycle\\Commands\\UpdateMotorcycleLicensePlate\\UpdateMotorcycleLicensePlateCommandValidatorTests.cs",
+              "RelativeDocumentMoniker": "src\\MotorcycleRentalSystem.UnitTests\\Application\\UseCases\\Motorcycle\\Commands\\UpdateMotorcycleLicensePlate\\UpdateMotorcycleLicensePlateCommandValidatorTests.cs",
+              "ToolTip": "C:\\Users\\herbe\\source\\repos\\MotoRentalSystem\\src\\MotorcycleRentalSystem.UnitTests\\Application\\UseCases\\Motorcycle\\Commands\\UpdateMotorcycleLicensePlate\\UpdateMotorcycleLicensePlateCommandValidatorTests.cs",
+              "RelativeToolTip": "src\\MotorcycleRentalSystem.UnitTests\\Application\\UseCases\\Motorcycle\\Commands\\UpdateMotorcycleLicensePlate\\UpdateMotorcycleLicensePlateCommandValidatorTests.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAiwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T16:39:38.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MotorcycleControllerIntegrationTests.cs",
+              "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\MotoRentalSystem\\src\\MotorcycleRentalSystem.IntegrationTests\\MotorcycleControllerIntegrationTests.cs",
+              "RelativeDocumentMoniker": "src\\MotorcycleRentalSystem.IntegrationTests\\MotorcycleControllerIntegrationTests.cs",
+              "ToolTip": "C:\\Users\\herbe\\source\\repos\\MotoRentalSystem\\src\\MotorcycleRentalSystem.IntegrationTests\\MotorcycleControllerIntegrationTests.cs",
+              "RelativeToolTip": "src\\MotorcycleRentalSystem.IntegrationTests\\MotorcycleControllerIntegrationTests.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAawDoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T16:37:44.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateMotorcycleCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\MotoRentalSystem\\src\\MotorcycleRentalSystem.Application\\UseCases\\Motorcycle\\Commands\\CreateMotorcycle\\CreateMotorcycleCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\MotorcycleRentalSystem.Application\\UseCases\\Motorcycle\\Commands\\CreateMotorcycle\\CreateMotorcycleCommandHandler.cs",
+              "ToolTip": "C:\\Users\\herbe\\source\\repos\\MotoRentalSystem\\src\\MotorcycleRentalSystem.Application\\UseCases\\Motorcycle\\Commands\\CreateMotorcycle\\CreateMotorcycleCommandHandler.cs",
+              "RelativeToolTip": "src\\MotorcycleRentalSystem.Application\\UseCases\\Motorcycle\\Commands\\CreateMotorcycle\\CreateMotorcycleCommandHandler.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAASwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T16:38:24.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

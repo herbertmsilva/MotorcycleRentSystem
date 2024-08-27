@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MotorcycleRentalSystem.Api</name>
+    </assembly>
+    <members>
+        <member name="T:MotorcycleRentalSystem.Api.Controllers.AuthController">
+            <summary>
+            API para autenticação e gerenciamento de usuários.
+            </summary>
+        </member>
+        <member name="M:MotorcycleRentalSystem.Api.Controllers.AuthController.Login(MotorcycleRentalSystem.Application.UseCases.User.LoginUser.LoginCommand)">
+            <summary>
+            Realiza login de um usuário.
+            </summary>
+            <remarks>
+            Uma resposta `401 Unauthorized` indica que as credenciais fornecidas são inválidas.
+            </remarks>
+            <param name="command">Comando contendo as credenciais de login.</param>
+            <returns>Retorna um token de autenticação.</returns>
+        </member>
+        <member name="M:MotorcycleRentalSystem.Api.Controllers.AuthController.Register(MotorcycleRentalSystem.Application.UseCases.User.RegisterUser.RegisterUserCommand)">
+            <summary>
+            Registra um novo usuário no sistema.
+            </summary>
+            <remarks>
+            Uma resposta `400 Bad Request` pode ocorrer devido a erros de validação de campos obrigatórios
+            ou falhas em regras de negócio.
+            </remarks>
+            <param name="command">Comando contendo os detalhes do usuário a ser registrado.</param>
+            <returns>Retorna uma mensagem de sucesso ou erro.</returns>
+        </member>
+        <member name="T:MotorcycleRentalSystem.Api.Controllers.DeliveryDriverController">
+            <summary>
+            API para gerenciamento de entregadores.
+            </summary>
+        </member>
+        <member name="M:MotorcycleRentalSystem.Api.Controllers.DeliveryDriverController.CreateDeliveryDriver(MotorcycleRentalSystem.Application.UseCases.DeliveryDriver.Commands.CreateDeliveryDriver.CreateDeliveryDriverCommand)">
+            <summary>
+            Cria um novo entregador.
+            </summary>
+            <remarks>
+            Uma resposta `400 Bad Request` pode ocorrer devido a erros de validação de campos obrigatórios
+            ou falhas em regras de negócio.
+            </remarks>
+            <param name="command">Comando contendo os detalhes do entregador a ser criado.</param>
+            <returns>Retorna dados do entregador recém-criado.</returns>
+        </member>
+        <member name="M:MotorcycleRentalSystem.Api.Controllers.DeliveryDriverController.UpdateCnhImage(System.Guid,Microsoft.AspNetCore.Http.IFormFile)">
+            <summary>
+            Atualiza a imagem da CNH de um entregador.
+            </summary>
+            <remarks>
+            Uma resposta `404 Not Found` indica que o entregador especificado não foi encontrado.
+            Uma resposta `400 Bad Request` indica que a imagem da CNH ou o ID do entregador são inválidos.
+            </remarks>
+            <param name="driverId">ID do entregador cuja CNH será atualizada.</param>
+            <param name="fileName">Nome do arquivo da imagem.</param>
+            <param name="cnhImageStream">Stream do arquivo da imagem da CNH.</param>
+            <returns>Retorna NoContent se a operação for bem-sucedida.</returns>
+        </member>
+        <member name="M:MotorcycleRentalSystem.Api.Controllers.DeliveryDriverController.GetDeliveryDrivers">
+            <summary>
+            Obtém uma lista de entregadores.
+            </summary>
+            <returns>Retorna uma lista de entregadores cadastrados.</returns>
+        </member>
+        <member name="M:MotorcycleRentalSystem.Api.Controllers.DeliveryDriverController.GetDeliveryDriverById(System.Guid)">
+            <summary>
+            Obtém detalhes de um entregador pelo ID.
+            </summary>
+            <remarks>
+            Uma resposta `404 Not Found` indica que o entregador especificado não foi encontrado.
+            </remarks>
+            <param name="id">ID do entregador a ser recuperado.</param>
+            <returns>Retorna os detalhes do entregador.</returns>
+        </member>
+        <member name="T:MotorcycleRentalSystem.Api.Controllers.MotorcycleController">
+            <summary>
+            API para gerenciamento de motocicletas.
+            </summary>
+        </member>
+        <member name="M:MotorcycleRentalSystem.Api.Controllers.MotorcycleController.#ctor(MediatR.IMediator)">
+            <summary>
+            Construtor do MotorcycleController.
+            </summary>
+            <param name="mediator">Instância de IMediator para mediar comandos e consultas.</param>
+        </member>
+        <member name="M:MotorcycleRentalSystem.Api.Controllers.MotorcycleController.CreateMotorcycle(MotorcycleRentalSystem.Application.UseCases.Motorcycle.Commands.CreateMotorcycle.CreateMotorcycleCommand)">
+            <summary>
+            Cria uma nova motocicleta.
+            </summary>
+            <remarks>
+            Uma resposta `400 Bad Request` pode ocorrer devido a um erro de validação de negócios 
+            (por exemplo, tentando alugar uma motocicleta que já está alugada) ou a um erro de validação 
+            (por exemplo, campos obrigatórios ausentes).
+            </remarks>
+            <param name="command">Comando contendo os detalhes da motocicleta a ser criada.</param>
+            <returns>Retorna os detalhes da motocicleta recém-criada.</returns>
+            <response code="201">Retorna os detalhes da motocicleta recém-criada.</response>
+            <response code="400">Se os dados da motocicleta forem inválidos.</response>
+        </member>
+        <member name="M:MotorcycleRentalSystem.Api.Controllers.MotorcycleController.GetMotorcycleById(System.Guid)">
+            <summary>
+            Obtém uma motocicleta pelo ID.
+            </summary>
+            <param name="id">ID da motocicleta a ser obtida.</param>
+            <returns>Retorna os detalhes da motocicleta solicitada.</returns>
+            <response code="200">Retorna os detalhes da motocicleta solicitada.</response>
+            <response code="404">Se a motocicleta não for encontrada.</response>
+        </member>
+        <member name="M:MotorcycleRentalSystem.Api.Controllers.MotorcycleController.GetMotorcycles(System.String)">
+            <summary>
+            Obtém uma lista de motocicletas com a opção de filtrar pela placa.
+            </summary>
+            <param name="licensePlateFilter">Filtro opcional para filtrar motocicletas pela placa.</param>
+            <returns>Retorna uma lista de motocicletas, possivelmente filtrada pela placa.</returns>
+            <response code="200">Retorna uma lista de motocicletas.</response>
+        </member>
+        <member name="M:MotorcycleRentalSystem.Api.Controllers.MotorcycleController.UpdateMotorcycleLicensePlate(System.Guid,MotorcycleRentalSystem.Application.UseCases.Motorcycle.Commands.UpdateMotorcycleLicensePlate.UpdateMotorcycleLicensePlateCommand)">
+            <summary>
+            Atualiza a placa de uma motocicleta existente.
+            </summary>
+            <remarks>
+            Uma resposta `400 Bad Request` pode ocorrer devido a um erro de validação de negócios 
+            ou a um erro de validação de campos (por exemplo, campos obrigatórios ausentes).
+            </remarks>
+            <param name="id">ID da motocicleta a ser atualizada.</param>
+            <param name="command">Comando contendo a nova placa e o ID da motocicleta.</param>
+            <returns>Retorna NoContent se a atualização for bem-sucedida.</returns>
+            <response code="204">Se a placa da motocicleta foi atualizada com sucesso.</response>
+            <response code="400">Se os dados fornecidos forem inválidos.</response>
+            <response code="404">Se a motocicleta não for encontrada.</response>
+        </member>
+        <member name="M:MotorcycleRentalSystem.Api.Controllers.MotorcycleController.DeleteMotorcycle(System.Guid)">
+            <summary>
+            Remove uma motocicleta pelo ID.
+            </summary>
+            <param name="id">ID da motocicleta a ser removida.</param>
+            <returns>Retorna NoContent se a remoção for bem-sucedida.</returns>
+            <response code="204">Se a motocicleta foi removida com sucesso.</response>
+            <response code="404">Se a motocicleta não for encontrada.</response>
+        </member>
+        <member name="T:MotorcycleRentalSystem.Api.Controllers.RentalController">
+            <summary>
+            API para gerenciar locações de motos.
+            </summary>
+        </member>
+        <member name="M:MotorcycleRentalSystem.Api.Controllers.RentalController.#ctor(MediatR.IMediator)">
+            <summary>
+            Construtor para RentalController.
+            </summary>
+            <param name="mediator">Instância do Mediator para mediação de comandos.</param>
+        </member>
+        <member name="M:MotorcycleRentalSystem.Api.Controllers.RentalController.GetRentalById(System.Guid)">
+            <summary>
+            Obtém uma locação por ID.
+            </summary>
+            <param name="id">ID da locação.</param>
+            <returns>Retorna os detalhes da locação solicitada.</returns>
+            <response code="200">Retorna os detalhes da locação.</response>
+            <response code="404">Se a locação não for encontrada.</response>
+        </member>
+        <member name="M:MotorcycleRentalSystem.Api.Controllers.RentalController.RentMotorcycle(MotorcycleRentalSystem.Application.UseCases.Rental.Commands.RentMotorcycle.RentMotorcycleCommand)">
+            <summary>
+            Endpoint para alugar uma moto.
+            </summary>
+            <param name="command">Comando contendo os detalhes do aluguel.</param>
+            <returns>Retorna o ID do aluguel recém-criado.</returns>
+            <response code="201">Aluguel criado com sucesso.</response>
+            <response code="400">Se os dados do aluguel forem inválidos.</response>
+        </member>
+        <member name="M:MotorcycleRentalSystem.Api.Controllers.RentalController.ReturnMotorcycle(MotorcycleRentalSystem.Application.UseCases.Rental.Commands.ReturnMotorcycle.ReturnMotorcycleCommand)">
+            <summary>
+            Endpoint para devolver uma moto e calcular o valor total da locação.
+            </summary>
+            <param name="command">Comando contendo os detalhes da devolução.</param>
+            <returns>Retorna o custo total da locação, incluindo multas, se houver.</returns>
+            <response code="200">Devolução processada com sucesso.</response>
+            <response code="400">Se os dados da devolução forem inválidos.</response>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,17 @@
+C:\Users\herbe\source\repos\MotoRentalSystem\src\MotorcycleRentalSystem.Persistence\bin\Debug\net8.0\MotorcycleRentalSystem.Persistence.deps.json
+C:\Users\herbe\source\repos\MotoRentalSystem\src\MotorcycleRentalSystem.Persistence\bin\Debug\net8.0\MotorcycleRentalSystem.Persistence.dll
+C:\Users\herbe\source\repos\MotoRentalSystem\src\MotorcycleRentalSystem.Persistence\bin\Debug\net8.0\MotorcycleRentalSystem.Persistence.pdb
+C:\Users\herbe\source\repos\MotoRentalSystem\src\MotorcycleRentalSystem.Persistence\bin\Debug\net8.0\MotorcycleRentalSystem.Application.dll
+C:\Users\herbe\source\repos\MotoRentalSystem\src\MotorcycleRentalSystem.Persistence\bin\Debug\net8.0\MotorcycleRentalSystem.Core.dll
+C:\Users\herbe\source\repos\MotoRentalSystem\src\MotorcycleRentalSystem.Persistence\bin\Debug\net8.0\MotorcycleRentalSystem.Application.pdb
+C:\Users\herbe\source\repos\MotoRentalSystem\src\MotorcycleRentalSystem.Persistence\bin\Debug\net8.0\MotorcycleRentalSystem.Core.pdb
+C:\Users\herbe\source\repos\MotoRentalSystem\src\MotorcycleRentalSystem.Persistence\obj\Debug\net8.0\MotorcycleRentalSystem.Persistence.csproj.AssemblyReference.cache
+C:\Users\herbe\source\repos\MotoRentalSystem\src\MotorcycleRentalSystem.Persistence\obj\Debug\net8.0\MotorcycleRentalSystem.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herbe\source\repos\MotoRentalSystem\src\MotorcycleRentalSystem.Persistence\obj\Debug\net8.0\MotorcycleRentalSystem.Persistence.AssemblyInfoInputs.cache
+C:\Users\herbe\source\repos\MotoRentalSystem\src\MotorcycleRentalSystem.Persistence\obj\Debug\net8.0\MotorcycleRentalSystem.Persistence.AssemblyInfo.cs
+C:\Users\herbe\source\repos\MotoRentalSystem\src\MotorcycleRentalSystem.Persistence\obj\Debug\net8.0\MotorcycleRentalSystem.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\herbe\source\repos\MotoRentalSystem\src\MotorcycleRentalSystem.Persistence\obj\Debug\net8.0\Motorcyc.1B053D4F.Up2Date
+C:\Users\herbe\source\repos\MotoRentalSystem\src\MotorcycleRentalSystem.Persistence\obj\Debug\net8.0\MotorcycleRentalSystem.Persistence.dll
+C:\Users\herbe\source\repos\MotoRentalSystem\src\MotorcycleRentalSystem.Persistence\obj\Debug\net8.0\refint\MotorcycleRentalSystem.Persistence.dll
+C:\Users\herbe\source\repos\MotoRentalSystem\src\MotorcycleRentalSystem.Persistence\obj\Debug\net8.0\MotorcycleRentalSystem.Persistence.pdb
+C:\Users\herbe\source\repos\MotoRentalSystem\src\MotorcycleRentalSystem.Persistence\obj\Debug\net8.0\ref\MotorcycleRentalSystem.Persistence.dll

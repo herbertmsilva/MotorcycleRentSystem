@@ -1,0 +1,15 @@
+C:\Users\herbe\source\repos\MotoRentalSystem\src\MotorcycleRentalSystem.Application\bin\Debug\net8.0\MotorcycleRentalSystem.Application.deps.json
+C:\Users\herbe\source\repos\MotoRentalSystem\src\MotorcycleRentalSystem.Application\bin\Debug\net8.0\MotorcycleRentalSystem.Application.dll
+C:\Users\herbe\source\repos\MotoRentalSystem\src\MotorcycleRentalSystem.Application\bin\Debug\net8.0\MotorcycleRentalSystem.Application.pdb
+C:\Users\herbe\source\repos\MotoRentalSystem\src\MotorcycleRentalSystem.Application\bin\Debug\net8.0\MotorcycleRentalSystem.Core.dll
+C:\Users\herbe\source\repos\MotoRentalSystem\src\MotorcycleRentalSystem.Application\bin\Debug\net8.0\MotorcycleRentalSystem.Core.pdb
+C:\Users\herbe\source\repos\MotoRentalSystem\src\MotorcycleRentalSystem.Application\obj\Debug\net8.0\MotorcycleRentalSystem.Application.csproj.AssemblyReference.cache
+C:\Users\herbe\source\repos\MotoRentalSystem\src\MotorcycleRentalSystem.Application\obj\Debug\net8.0\MotorcycleRentalSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herbe\source\repos\MotoRentalSystem\src\MotorcycleRentalSystem.Application\obj\Debug\net8.0\MotorcycleRentalSystem.Application.AssemblyInfoInputs.cache
+C:\Users\herbe\source\repos\MotoRentalSystem\src\MotorcycleRentalSystem.Application\obj\Debug\net8.0\MotorcycleRentalSystem.Application.AssemblyInfo.cs
+C:\Users\herbe\source\repos\MotoRentalSystem\src\MotorcycleRentalSystem.Application\obj\Debug\net8.0\MotorcycleRentalSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\herbe\source\repos\MotoRentalSystem\src\MotorcycleRentalSystem.Application\obj\Debug\net8.0\Motorcyc.A97E823E.Up2Date
+C:\Users\herbe\source\repos\MotoRentalSystem\src\MotorcycleRentalSystem.Application\obj\Debug\net8.0\MotorcycleRentalSystem.Application.dll
+C:\Users\herbe\source\repos\MotoRentalSystem\src\MotorcycleRentalSystem.Application\obj\Debug\net8.0\refint\MotorcycleRentalSystem.Application.dll
+C:\Users\herbe\source\repos\MotoRentalSystem\src\MotorcycleRentalSystem.Application\obj\Debug\net8.0\MotorcycleRentalSystem.Application.pdb
+C:\Users\herbe\source\repos\MotoRentalSystem\src\MotorcycleRentalSystem.Application\obj\Debug\net8.0\ref\MotorcycleRentalSystem.Application.dll
