@@ -13,10 +13,10 @@ Este projeto é uma aplicação de gerenciamento de aluguel de motos e entregado
 
 - **src**: Diretório principal que contém o código-fonte.
   - **api**: Camada de apresentação da aplicação.
-  - **Aplicação**: Contém casos de uso e lógica de negócios.
-  - **Domínio**: Entidades e regras de negócio.
-  - **Infraestrutura**: Implementações de repositórios, serviços de mensageria (RabbitMQ), e configurações de banco de dados.
-  - **Persistência**: Separa as entidades e repositórios do PostgreSQL e MongoDB.
+  - **Application**: Contém casos de uso e lógica de negócios.
+  - **Core**: Entidades e regras de negócio.
+  - **Infrastructure**: Implementações de repositórios, serviços de mensageria (RabbitMQ), e configurações de banco de dados.
+  - **Persistence**: Separa as entidades e repositórios do PostgreSQL e MongoDB.
 
 ## Funcionalidades
 
@@ -49,15 +49,9 @@ Este projeto é uma aplicação de gerenciamento de aluguel de motos e entregado
     dotnet ef database update -p .\MotorcycleRentalSystem.Persistence\ -s .\MotorcycleRentalSystem.Api\
     ```
 
-5. Compile e execute o projeto ou acessar a pagina pelo [http://localhost:8080/](http://localhost:8080/swagger/index.html):
+5. Compile e execute o projeto ou acessar a pagina pelo caminho http://localhost:8080/swagger/index.html:
     ```bash
     dotnet run
     ```
 
-## Contribuição
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT.
